@@ -1,0 +1,39 @@
+body {
+  background-color: #161419;
+  color: #8e4ee0;
+}
+
+header{
+    text-align: center;
+    padding: 2%;
+    font-size: 40px;
+    text-shadow: 2px 2px 4px red;    
+}
+
+aside{
+    font-size: 20px;
+    width: 10%;
+    height: 100%;
+    padding-right: 10px;
+    padding-bottom: 500px;
+    float: left;
+    background: #660adb;
+    color: Black;
+}
+
+#aside h3{
+    text-align: center;
+}
+
+a{
+    color: #15141b;
+    margin-right: 140px;
+    font-size: 20px;
+}
+
+P {
+    font: Verdana;
+    text-align: center;
+    font-size: 22px;
+    background-color: #29055c;
+}
