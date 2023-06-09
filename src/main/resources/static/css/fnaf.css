@@ -19,16 +19,23 @@ aside{
     float: left;
     background: #660adb;
     color: Black;
+    font-weight: bold;
 }
 
-#aside h3{
+#aside h4{
     text-align: center;
+    color: #15141b;
+    font-size: 25px;
 }
 
-a{
+#aside a{
     color: #15141b;
     margin-right: 140px;
     font-size: 20px;
+}
+
+a{
+    color: #8e4ee0;
 }
 
 P {
@@ -36,4 +43,32 @@ P {
     text-align: center;
     font-size: 22px;
     background-color: #29055c;
+    padding: 20px;
+}
+
+h2{
+    color: #660adb;
+    font-size: 60px;
+    text-align: center; 
+    padding-top: 100px; 
+    padding-bottom: 50px
+}
+
+h3{
+    color: #660adb;
+    font-size: 35px;
+}
+
+#C{
+    display: inline-block;
+    height: 200px;
+    margin-right: 50px;
+}
+
+#linksCompra{
+    display: inline-block;
+    padding-bottom: 50px;
+    margin-left: 400px;
+    height: 100%;
+    vertical-align: top;
 }
